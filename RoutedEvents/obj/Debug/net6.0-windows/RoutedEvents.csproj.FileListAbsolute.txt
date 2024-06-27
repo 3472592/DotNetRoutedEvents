@@ -1,0 +1,41 @@
+C:\Users\Liberty Fox User\Desktop\C#\Appendix ii\Ch15\RoutedEvents\bin\Debug\net6.0-windows\RoutedEvents.exe
+C:\Users\Liberty Fox User\Desktop\C#\Appendix ii\Ch15\RoutedEvents\bin\Debug\net6.0-windows\RoutedEvents.deps.json
+C:\Users\Liberty Fox User\Desktop\C#\Appendix ii\Ch15\RoutedEvents\bin\Debug\net6.0-windows\RoutedEvents.runtimeconfig.json
+C:\Users\Liberty Fox User\Desktop\C#\Appendix ii\Ch15\RoutedEvents\bin\Debug\net6.0-windows\RoutedEvents.dll
+C:\Users\Liberty Fox User\Desktop\C#\Appendix ii\Ch15\RoutedEvents\bin\Debug\net6.0-windows\RoutedEvents.pdb
+C:\Users\Liberty Fox User\Desktop\C#\Appendix ii\Ch15\RoutedEvents\obj\Debug\net6.0-windows\RoutedEvents.csproj.AssemblyReference.cache
+C:\Users\Liberty Fox User\Desktop\C#\Appendix ii\Ch15\RoutedEvents\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Liberty Fox User\Desktop\C#\Appendix ii\Ch15\RoutedEvents\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Liberty Fox User\Desktop\C#\Appendix ii\Ch15\RoutedEvents\obj\Debug\net6.0-windows\RoutedEvents_MarkupCompile.cache
+C:\Users\Liberty Fox User\Desktop\C#\Appendix ii\Ch15\RoutedEvents\obj\Debug\net6.0-windows\RoutedEvents_MarkupCompile.lref
+C:\Users\Liberty Fox User\Desktop\C#\Appendix ii\Ch15\RoutedEvents\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Liberty Fox User\Desktop\C#\Appendix ii\Ch15\RoutedEvents\obj\Debug\net6.0-windows\RoutedEvents.g.resources
+C:\Users\Liberty Fox User\Desktop\C#\Appendix ii\Ch15\RoutedEvents\obj\Debug\net6.0-windows\RoutedEvents.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Liberty Fox User\Desktop\C#\Appendix ii\Ch15\RoutedEvents\obj\Debug\net6.0-windows\RoutedEvents.AssemblyInfoInputs.cache
+C:\Users\Liberty Fox User\Desktop\C#\Appendix ii\Ch15\RoutedEvents\obj\Debug\net6.0-windows\RoutedEvents.AssemblyInfo.cs
+C:\Users\Liberty Fox User\Desktop\C#\Appendix ii\Ch15\RoutedEvents\obj\Debug\net6.0-windows\RoutedEvents.csproj.CoreCompileInputs.cache
+C:\Users\Liberty Fox User\Desktop\C#\Appendix ii\Ch15\RoutedEvents\obj\Debug\net6.0-windows\RoutedEvents.dll
+C:\Users\Liberty Fox User\Desktop\C#\Appendix ii\Ch15\RoutedEvents\obj\Debug\net6.0-windows\refint\RoutedEvents.dll
+C:\Users\Liberty Fox User\Desktop\C#\Appendix ii\Ch15\RoutedEvents\obj\Debug\net6.0-windows\RoutedEvents.pdb
+C:\Users\Liberty Fox User\Desktop\C#\Appendix ii\Ch15\RoutedEvents\obj\Debug\net6.0-windows\RoutedEvents.genruntimeconfig.cache
+C:\Users\Liberty Fox User\Desktop\C#\Appendix ii\Ch15\RoutedEvents\obj\Debug\net6.0-windows\ref\RoutedEvents.dll
+C:\Users\16507\Desktop\Vova Code\Training\C#\Appendix ii\Ch15\RoutedEvents\bin\Debug\net6.0-windows\RoutedEvents.exe
+C:\Users\16507\Desktop\Vova Code\Training\C#\Appendix ii\Ch15\RoutedEvents\bin\Debug\net6.0-windows\RoutedEvents.deps.json
+C:\Users\16507\Desktop\Vova Code\Training\C#\Appendix ii\Ch15\RoutedEvents\bin\Debug\net6.0-windows\RoutedEvents.runtimeconfig.json
+C:\Users\16507\Desktop\Vova Code\Training\C#\Appendix ii\Ch15\RoutedEvents\bin\Debug\net6.0-windows\RoutedEvents.dll
+C:\Users\16507\Desktop\Vova Code\Training\C#\Appendix ii\Ch15\RoutedEvents\bin\Debug\net6.0-windows\RoutedEvents.pdb
+C:\Users\16507\Desktop\Vova Code\Training\C#\Appendix ii\Ch15\RoutedEvents\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\16507\Desktop\Vova Code\Training\C#\Appendix ii\Ch15\RoutedEvents\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\16507\Desktop\Vova Code\Training\C#\Appendix ii\Ch15\RoutedEvents\obj\Debug\net6.0-windows\RoutedEvents_MarkupCompile.cache
+C:\Users\16507\Desktop\Vova Code\Training\C#\Appendix ii\Ch15\RoutedEvents\obj\Debug\net6.0-windows\RoutedEvents_MarkupCompile.lref
+C:\Users\16507\Desktop\Vova Code\Training\C#\Appendix ii\Ch15\RoutedEvents\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\16507\Desktop\Vova Code\Training\C#\Appendix ii\Ch15\RoutedEvents\obj\Debug\net6.0-windows\RoutedEvents.g.resources
+C:\Users\16507\Desktop\Vova Code\Training\C#\Appendix ii\Ch15\RoutedEvents\obj\Debug\net6.0-windows\RoutedEvents.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\16507\Desktop\Vova Code\Training\C#\Appendix ii\Ch15\RoutedEvents\obj\Debug\net6.0-windows\RoutedEvents.AssemblyInfoInputs.cache
+C:\Users\16507\Desktop\Vova Code\Training\C#\Appendix ii\Ch15\RoutedEvents\obj\Debug\net6.0-windows\RoutedEvents.AssemblyInfo.cs
+C:\Users\16507\Desktop\Vova Code\Training\C#\Appendix ii\Ch15\RoutedEvents\obj\Debug\net6.0-windows\RoutedEvents.csproj.CoreCompileInputs.cache
+C:\Users\16507\Desktop\Vova Code\Training\C#\Appendix ii\Ch15\RoutedEvents\obj\Debug\net6.0-windows\RoutedEvents.dll
+C:\Users\16507\Desktop\Vova Code\Training\C#\Appendix ii\Ch15\RoutedEvents\obj\Debug\net6.0-windows\refint\RoutedEvents.dll
+C:\Users\16507\Desktop\Vova Code\Training\C#\Appendix ii\Ch15\RoutedEvents\obj\Debug\net6.0-windows\RoutedEvents.pdb
+C:\Users\16507\Desktop\Vova Code\Training\C#\Appendix ii\Ch15\RoutedEvents\obj\Debug\net6.0-windows\RoutedEvents.genruntimeconfig.cache
+C:\Users\16507\Desktop\Vova Code\Training\C#\Appendix ii\Ch15\RoutedEvents\obj\Debug\net6.0-windows\ref\RoutedEvents.dll
